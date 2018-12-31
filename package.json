@@ -1,5 +1,5 @@
 {
-  "name": "rgb",
+  "name": "@pedroescudero/rgb",
   "version": "1.0.0",
   "description": "Transform from RGB decimal numbers to its hexadecimal value  ",
   "main": "index.js",
