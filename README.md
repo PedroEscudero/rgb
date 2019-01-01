@@ -20,8 +20,6 @@ The main function requires 3 decimal numbers. The response will be a string repr
 
   `npm test`
 
-  It is using [mocha] (https://mochajs.org/) as a testing framework and [Chai](https://www.chaijs.com/)for the assertions.
+  It is using [mocha](https://mochajs.org/) as a testing framework and [Chai](https://www.chaijs.com/) for the assertions.
 
-  For manual testing and training you can employ Runkit:
-
-  `https://npm.runkit.com/@pedroescudero/rgbG`
+  For manual testing and training you can employ [Runkit](https://npm.runkit.com/@pedroescudero/rgb).
