@@ -19,3 +19,7 @@ The main function requires 3 decimal numbers and the response will be a string r
 ## Tests
 
   `npm test`
+
+  for manual testing an training you can employ runkit:
+
+  `https://npm.runkit.com/@pedroescudero/rgb`
