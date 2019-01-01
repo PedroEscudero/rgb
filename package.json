@@ -1,6 +1,6 @@
 {
   "name": "@pedroescudero/rgb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Transforms from RGB decimal numbers to its hexadecimal value  ",
   "main": "index.js",
   "scripts": {
