@@ -24,4 +24,4 @@ The main function requires 3 decimal numbers. The response will be a string repr
 
   For manual testing and training you can employ Runkit:
 
-  `https://npm.runkit.com/@pedroescudero/rgbG
+  `https://npm.runkit.com/@pedroescudero/rgbG`
