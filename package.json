@@ -1,18 +1,19 @@
 {
   "name": "@pedroescudero/rgb",
-  "version": "1.0.1",
-  "description": "Transform from RGB decimal numbers to its hexadecimal value  ",
+  "version": "1.0.2",
+  "description": "Transforms from RGB decimal numbers to its hexadecimal value  ",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
   "keywords": [
-    "RGB"
+    "RGB",
+    "RGB transformer"
   ],
   "engines": {
     "node": ">=4.1.1"
   },
-  "author": "Pedro Escudero <“pedroescudero.zumel@gmail.com”>",
+  "author": "Pedro Escudero Zumel <“pedroescudero.zumel@gmail.com”>",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
